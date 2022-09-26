@@ -1,0 +1,27 @@
+body {
+  font-family: arial, sans-serif;
+  background: url("https://images.unsplash.com/photo-1508614999368-9260051292e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+ }
+  
+  h1 {
+    color: rgb(15, 3, 3);
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  header#cabecalho {
+	border-bottom: 1px #606060 solid;
+	height: 200px;
+	background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+  }
+
+  header#cabecalho img#icone {
+    position: fixed;
+    left: 12px;
+    top: 10px;
+  }
